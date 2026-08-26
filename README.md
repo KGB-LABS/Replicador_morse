@@ -22,6 +22,8 @@ Para reproduzir este projeto, você precisará apenas de:
    * *Nota: Este projeto foi desenhado especificamente para contornar problemas físicos no touch screen resistivo da placa, transferindo o controle do toque para o seu celular via Wi-Fi!*
 2. **Cabo USB-C** ou Micro-USB (dependendo da revisão da sua placa) para programação e alimentação.
 3. **Smartphone ou Computador** (para acessar a rede Wi-Fi e usar o teclado virtual).
+4. Alto Falante Oval 30x20mm 1w 8 Ohms Tablet Notebook
+5. Case impresso 3d (opcional)
 
 ---
 
