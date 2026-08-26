@@ -4,7 +4,7 @@ Um projeto interativo para aprender e treinar Código Morse utilizando a placa *
 
 Este projeto transforma o ESP32 em um roteador Wi-Fi (Access Point) com um **Portal Captivo**. Basta conectar o seu celular à rede criada pela placa, e um teclado virtual abrirá automaticamente na tela do seu smartphone. Ao digitar, a placa exibe a letra, os símbolos geométricos do Morse, emite o som pelo alto-falante e pisca o LED frontal em sincronia perfeita!
 
-![Visão Geral do Projeto](coloque_uma_foto_do_projeto_aqui.jpg)
+![Visão Geral do Projeto](fotos.pdf)
 
 ## ✨ Funcionalidades
 * **📱 Portal Captivo Inteligente:** Não precisa de internet nem baixar apps. Conecte no Wi-Fi e a página web abre sozinha no celular.
